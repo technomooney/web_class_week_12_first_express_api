@@ -1,0 +1,9 @@
+{
+	"name": "first-express-api",
+	"description": "Hello World API",
+	"author": "Marty",
+	"dependencies": {
+		"express": "^4.17.3",
+		"nodemon": "^2.0.15"
+	}
+}
